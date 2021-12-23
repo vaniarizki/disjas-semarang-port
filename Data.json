@@ -1,0 +1,3666 @@
+[
+ {
+   "Vessel Name": "GANDAWATI 1",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640180460
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "22/12/2021 20.41"
+},
+ {
+   "Vessel Name": "TRADER",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640179740
+   },
+   "Voyage origin Port": "SINGAPORE",
+   "Leg Start Port": {
+      "anch": "SINGAPORE"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "22/12/2021 20.29"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640162760
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "22/12/2021 15.46"
+},
+ {
+   "Vessel Name": "GAS PATRICIA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640155800
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "22/12/2021 13.50"
+},
+ {
+   "Vessel Name": "DHARMA FERRY 2",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640154180
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "22/12/2021 13.23"
+},
+ {
+   "Vessel Name": "MERATUS MALINO",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640144040
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "22/12/2021 10.34"
+},
+ {
+   "Vessel Name": "GANDAWATI 1",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640142600
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "22/12/2021 10.10"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640142540
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "22/12/2021 10.09"
+},
+ {
+   "Vessel Name": "COSMIC 15",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640142480
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "22/12/2021 10.08"
+},
+ {
+   "Vessel Name": "TB.MOA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640142420
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "22/12/2021 10.07"
+},
+ {
+   "Vessel Name": "TB.MOA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640139120
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "22/12/2021 09.12"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640138940
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "22/12/2021 09.09"
+},
+ {
+   "Vessel Name": "EVER BOARD",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640125860
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "JAKARTA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "22/12/2021 05.31"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640115780
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "22/12/2021 02.43"
+},
+ {
+   "Vessel Name": "PUSRI INDONESIA I",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640099280
+   },
+   "Voyage origin Port": "PALEMBANG",
+   "Leg Start Port": {
+      "anch": "PALEMBANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "21/12/2021 22.08"
+},
+ {
+   "Vessel Name": "ERICA 9",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640091360
+   },
+   "Voyage origin Port": "LAMONGAN",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "21/12/2021 19.56"
+},
+ {
+   "Vessel Name": "INTAN DAYA 272",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640088360
+   },
+   "Voyage origin Port": "PALEMBANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "21/12/2021 19.06"
+},
+ {
+   "Vessel Name": "DHARMA FERRY 2",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640081880
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "21/12/2021 17.18"
+},
+ {
+   "Vessel Name": "MERATUS MALINO",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640081400
+   },
+   "Voyage origin Port": "MAKASSAR",
+   "Leg Start Port": {
+      "anch": "MAKASSAR"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "21/12/2021 17.10"
+},
+ {
+   "Vessel Name": "BRAHMA 3",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640065980
+   },
+   "Voyage origin Port": "BANJARMASIN",
+   "Leg Start Port": {
+      "anch": "BANJARMASIN"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "21/12/2021 12.53"
+},
+ {
+   "Vessel Name": "SITC SEMARANG",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640047080
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "21/12/2021 07.38"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640037480
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "21/12/2021 04.58"
+},
+ {
+   "Vessel Name": "GAS PATRICIA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640014320
+   },
+   "Voyage origin Port": "MERAK",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "20/12/2021 22.32"
+},
+ {
+   "Vessel Name": "GAS PATRA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640009580
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "20/12/2021 21.13"
+},
+ {
+   "Vessel Name": "WAHYU PANDAN ARAN",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1640004240
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Special Craft",
+   "Timestamp": "20/12/2021 19.44"
+},
+ {
+   "Vessel Name": "SPIRIT OF MUMBAI",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639994820
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "20/12/2021 17.07"
+},
+ {
+   "Vessel Name": "WAHYU PANDAN ARAN",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639991160
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Special Craft",
+   "Timestamp": "20/12/2021 16.06"
+},
+ {
+   "Vessel Name": "KLM.SEJARAH SETIA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639984620
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "20/12/2021 14.17"
+},
+ {
+   "Vessel Name": "SITC SEMARANG",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639981560
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "20/12/2021 13.26"
+},
+ {
+   "Vessel Name": "EVER BRACE",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639976940
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "20/12/2021 12.09"
+},
+ {
+   "Vessel Name": "KN SAR SADEWA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639972200
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Unspecified",
+   "Timestamp": "20/12/2021 10.50"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639968780
+   },
+   "Voyage origin Port": "KUMAI",
+   "Leg Start Port": {
+      "anch": "KUMAI"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "20/12/2021 09.53"
+},
+ {
+   "Vessel Name": "KN SAR SADEWA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639966920
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Unspecified",
+   "Timestamp": "20/12/2021 09.22"
+},
+ {
+   "Vessel Name": "TB.VIRGO SEJATI 28",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639928400
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "JAKARTA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "19/12/2021 22.40"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639928400
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "19/12/2021 22.40"
+},
+ {
+   "Vessel Name": "SINAR LABUAN",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639921200
+   },
+   "Voyage origin Port": "BONTANG",
+   "Leg Start Port": {
+      "anch": "BONTANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "19/12/2021 20.40"
+},
+ {
+   "Vessel Name": "KELIMUTU",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639919040
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "19/12/2021 20.04"
+},
+ {
+   "Vessel Name": "KAWA MAS",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639907340
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "19/12/2021 16.49"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639899240
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "19/12/2021 14.34"
+},
+ {
+   "Vessel Name": "KAWA MAS",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639878540
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "19/12/2021 08.49"
+},
+ {
+   "Vessel Name": "SPIRIT OF MUMBAI",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639876020
+   },
+   "Voyage origin Port": "SINGAPORE",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "19/12/2021 08.07"
+},
+ {
+   "Vessel Name": "EVER BRACE",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639868400
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "JAKARTA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "19/12/2021 06.00"
+},
+ {
+   "Vessel Name": "MARINER",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639856820
+   },
+   "Voyage origin Port": "MERAK",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "19/12/2021 02.47"
+},
+ {
+   "Vessel Name": "NORD ANNAPOLIS",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639836660
+   },
+   "Voyage origin Port": "KWINANA",
+   "Leg Start Port": {
+      "anch": "KWINANA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "18/12/2021 21.11"
+},
+ {
+   "Vessel Name": "RIO CADIZ",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639832700
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "18/12/2021 20.05"
+},
+ {
+   "Vessel Name": "ICON DANIEL",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639817520
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "18/12/2021 15.52"
+},
+ {
+   "Vessel Name": "KN DAMARU",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639799400
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Other",
+   "Timestamp": "18/12/2021 10.50"
+},
+ {
+   "Vessel Name": "GAS SUASA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639799340
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "18/12/2021 10.49"
+},
+ {
+   "Vessel Name": "ICON DANIEL",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639785480
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "18/12/2021 06.58"
+},
+ {
+   "Vessel Name": "ORIENTAL PACIFIC",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639783980
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "18/12/2021 06.33"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639771680
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "18/12/2021 03.08"
+},
+ {
+   "Vessel Name": "KELIMUTU",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639766760
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "18/12/2021 01.46"
+},
+ {
+   "Vessel Name": "RIO CADIZ",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639756320
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "JAKARTA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "17/12/2021 22.52"
+},
+ {
+   "Vessel Name": "GANDAWATI 1",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639755420
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "17/12/2021 22.37"
+},
+ {
+   "Vessel Name": "KIRANA III",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639750380
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "17/12/2021 21.13"
+},
+ {
+   "Vessel Name": "DHARMA FERRY 2",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639749300
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "17/12/2021 20.55"
+},
+ {
+   "Vessel Name": "ORIENTAL PACIFIC",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639748520
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "JAKARTA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "17/12/2021 20.42"
+},
+ {
+   "Vessel Name": "GAS SUASA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639744920
+   },
+   "Voyage origin Port": "KALBUT",
+   "Leg Start Port": {
+      "anch": "KALBUT"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "17/12/2021 19.42"
+},
+ {
+   "Vessel Name": "KELIMUTU",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639733160
+   },
+   "Voyage origin Port": "KUMAI",
+   "Leg Start Port": {
+      "anch": "KUMAI"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "17/12/2021 16.26"
+},
+ {
+   "Vessel Name": "GAS PATRA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639732980
+   },
+   "Voyage origin Port": "MERAK",
+   "Leg Start Port": {
+      "anch": "MERAK ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "17/12/2021 16.23"
+},
+ {
+   "Vessel Name": "KIRANA III",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639732500
+   },
+   "Voyage origin Port": "SAMPIT",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "17/12/2021 16.15"
+},
+ {
+   "Vessel Name": "DHARMA FERRY 2",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639728240
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "17/12/2021 15.04"
+},
+ {
+   "Vessel Name": "GAS PATRICIA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639728120
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "17/12/2021 15.02"
+},
+ {
+   "Vessel Name": "MERATUS BONTANG",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639726200
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "17/12/2021 14.30"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639707600
+   },
+   "Voyage origin Port": "KUMAI",
+   "Leg Start Port": {
+      "anch": "KUMAI"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "17/12/2021 09.20"
+},
+ {
+   "Vessel Name": "MUTIARA FERINDO 7",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639704720
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "17/12/2021 08.32"
+},
+ {
+   "Vessel Name": "JAYANEGARA 305",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639698420
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "17/12/2021 06.47"
+},
+ {
+   "Vessel Name": "GANDAWATI 1",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639698180
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "17/12/2021 06.43"
+},
+ {
+   "Vessel Name": "SHIP TRINITY",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639697700
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "17/12/2021 06.35"
+},
+ {
+   "Vessel Name": "BUXLINK",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639697700
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "17/12/2021 06.35"
+},
+ {
+   "Vessel Name": "JAYANEGARA 305",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639696260
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "17/12/2021 06.11"
+},
+ {
+   "Vessel Name": "TB INDO POWER 11",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639694880
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "17/12/2021 05.48"
+},
+ {
+   "Vessel Name": "TB.TRANS PACIFIC 99",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639683780
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "17/12/2021 02.43"
+},
+ {
+   "Vessel Name": "MUTIARA FERINDO 7",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639676100
+   },
+   "Voyage origin Port": "PANJANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "17/12/2021 00.35"
+},
+ {
+   "Vessel Name": "TRADER",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639668720
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "16/12/2021 22.32"
+},
+ {
+   "Vessel Name": "MERATUS BONTANG",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639664160
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "16/12/2021 21.16"
+},
+ {
+   "Vessel Name": "MUTIARA FERINDO 7",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639663020
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "16/12/2021 20.57"
+},
+ {
+   "Vessel Name": "MERATUS BENOA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639659420
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "16/12/2021 19.57"
+},
+ {
+   "Vessel Name": "NIKI SAE",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639645620
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "16/12/2021 16.07"
+},
+ {
+   "Vessel Name": "MUTIARA FERINDO 7",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639638720
+   },
+   "Voyage origin Port": "PANJANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "16/12/2021 14.12"
+},
+ {
+   "Vessel Name": "BUXLINK",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639635420
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SURABAYA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "16/12/2021 13.17"
+},
+ {
+   "Vessel Name": "JULIANTO MOELIODIHARDJO",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639632420
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "16/12/2021 12.27"
+},
+ {
+   "Vessel Name": "OLYMPIA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639618740
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "16/12/2021 08.39"
+},
+ {
+   "Vessel Name": "TB BIAK 77",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639608240
+   },
+   "Voyage origin Port": "BANJARMASIN",
+   "Leg Start Port": {
+      "anch": "BANJARMASIN"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "16/12/2021 05.44"
+},
+ {
+   "Vessel Name": "KIRANA I",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639594500
+   },
+   "Voyage origin Port": "SAMPIT",
+   "Leg Start Port": {
+      "anch": "SAMPIT"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "16/12/2021 01.55"
+},
+ {
+   "Vessel Name": "MERATUS BENOA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639589940
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SURABAYA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "16/12/2021 00.39"
+},
+ {
+   "Vessel Name": "TB.MOA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639586700
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 23.45"
+},
+ {
+   "Vessel Name": "TRADER",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639586340
+   },
+   "Voyage origin Port": "SINGAPORE",
+   "Leg Start Port": {
+      "anch": "SINGAPORE"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "15/12/2021 23.39"
+},
+ {
+   "Vessel Name": "SHIP TRINITY",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639583100
+   },
+   "Voyage origin Port": "KETAPANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "15/12/2021 22.45"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639582980
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 22.43"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639582440
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 22.34"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639581420
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 22.17"
+},
+ {
+   "Vessel Name": "SANANA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639580940
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "15/12/2021 22.09"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639580700
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 22.05"
+},
+ {
+   "Vessel Name": "OLYMPIA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639579380
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "15/12/2021 21.43"
+},
+ {
+   "Vessel Name": "TB.MOA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639578300
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 21.25"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639553520
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "15/12/2021 14.32"
+},
+ {
+   "Vessel Name": "KELIMUTU",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639551600
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "15/12/2021 14.00"
+},
+ {
+   "Vessel Name": "KIRANA III",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639543740
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "15/12/2021 11.49"
+},
+ {
+   "Vessel Name": "WAN HAI 283",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639537980
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "15/12/2021 10.13"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639536240
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "15/12/2021 09.44"
+},
+ {
+   "Vessel Name": "KN DAMARU",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639536240
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Other",
+   "Timestamp": "15/12/2021 09.44"
+},
+ {
+   "Vessel Name": "KN DAMARU",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639531680
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Other",
+   "Timestamp": "15/12/2021 08.28"
+},
+ {
+   "Vessel Name": "TB MERPATI III",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639522140
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 05.49"
+},
+ {
+   "Vessel Name": "DERAJAT",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639521180
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "15/12/2021 05.33"
+},
+ {
+   "Vessel Name": "TB APURA 09",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639519380
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "15/12/2021 05.03"
+},
+ {
+   "Vessel Name": "KELIMUTU",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639517760
+   },
+   "Voyage origin Port": "SAMPIT",
+   "Leg Start Port": {
+      "anch": "SAMPIT"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "15/12/2021 04.36"
+},
+ {
+   "Vessel Name": "WAN HAI 283",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639485840
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 19.44"
+},
+ {
+   "Vessel Name": "SITC PYEONGTAEK",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639484820
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 19.27"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639484520
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 19.22"
+},
+ {
+   "Vessel Name": "MSC GIANNA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639472220
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 15.57"
+},
+ {
+   "Vessel Name": "JI HONG",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639471080
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 15.38"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639467720
+   },
+   "Voyage origin Port": "KUMAI",
+   "Leg Start Port": {
+      "anch": "KUMAI"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 14.42"
+},
+ {
+   "Vessel Name": "DERAJAT",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639465800
+   },
+   "Voyage origin Port": "BANJARMASIN",
+   "Leg Start Port": {
+      "anch": "BANJARMASIN"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 14.10"
+},
+ {
+   "Vessel Name": "P 211",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639444200
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Other",
+   "Timestamp": "14/12/2021 08.10"
+},
+ {
+   "Vessel Name": "SANANA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639442340
+   },
+   "Voyage origin Port": "SINGAPORE",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "14/12/2021 07.39"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639442340
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "14/12/2021 07.39"
+},
+ {
+   "Vessel Name": "SITC PYEONGTAEK",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639441260
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 07.21"
+},
+ {
+   "Vessel Name": "SPIRIT OF MUMBAI",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639440240
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 07.04"
+},
+ {
+   "Vessel Name": "GREEN STARS",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639439940
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "14/12/2021 06.59"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639438980
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "14/12/2021 06.43"
+},
+ {
+   "Vessel Name": "JI HONG",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639424640
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 02.44"
+},
+ {
+   "Vessel Name": "GAS ATTAKA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639419540
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "14/12/2021 01.19"
+},
+ {
+   "Vessel Name": "PRATIWI SATU",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639415220
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "14/12/2021 00.07"
+},
+ {
+   "Vessel Name": "KLM DWI BAHARI",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639414020
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "13/12/2021 23.47"
+},
+ {
+   "Vessel Name": "GAS PATRICIA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639409400
+   },
+   "Voyage origin Port": "MERAK",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "13/12/2021 22.30"
+},
+ {
+   "Vessel Name": "GAS PATRA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639408260
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "13/12/2021 22.11"
+},
+ {
+   "Vessel Name": "KRESNA 315",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639399920
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Other",
+   "Timestamp": "13/12/2021 19.52"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639380600
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "13/12/2021 14.30"
+},
+ {
+   "Vessel Name": "TRIAKSA 15",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639380360
+   },
+   "Voyage origin Port": "BENOA",
+   "Leg Start Port": {
+      "anch": "BENOA ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "13/12/2021 14.26"
+},
+ {
+   "Vessel Name": "PRATIWI SATU",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639371960
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "13/12/2021 12.06"
+},
+ {
+   "Vessel Name": "MSC GIANNA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639367400
+   },
+   "Voyage origin Port": "TANJUNG PELEPAS",
+   "Leg Start Port": {
+      "anch": "TANJUNG PELEPAS"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "13/12/2021 10.50"
+},
+ {
+   "Vessel Name": "UNI PACIFIC",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639365180
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "13/12/2021 10.13"
+},
+ {
+   "Vessel Name": "COSMIC 15",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639361820
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SURABAYA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "13/12/2021 09.17"
+},
+ {
+   "Vessel Name": "EDRICKO 3",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639354620
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "13/12/2021 07.17"
+},
+ {
+   "Vessel Name": "MERATUS MANADO",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639345080
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "13/12/2021 04.38"
+},
+ {
+   "Vessel Name": "KLM CAHAYA GLORIA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639345080
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Unspecified",
+   "Timestamp": "13/12/2021 04.38"
+},
+ {
+   "Vessel Name": "JULIANTO MOELIODIHARDJO",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639339080
+   },
+   "Voyage origin Port": "PALEMBANG",
+   "Leg Start Port": {
+      "anch": "PALEMBANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "13/12/2021 02.58"
+},
+ {
+   "Vessel Name": "KLM CAHAYA GLORIA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639334940
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Unspecified",
+   "Timestamp": "13/12/2021 01.49"
+},
+ {
+   "Vessel Name": "UNI PACIFIC",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639332780
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SURABAYA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "13/12/2021 01.13"
+},
+ {
+   "Vessel Name": "P 211",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639332780
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SURABAYA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Other",
+   "Timestamp": "13/12/2021 01.13"
+},
+ {
+   "Vessel Name": "KM MEGAH PERTIWI",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639324560
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "12/12/2021 22.56"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639323360
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "12/12/2021 22.36"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639321740
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "12/12/2021 22.09"
+},
+ {
+   "Vessel Name": "GREEN STARS",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639321620
+   },
+   "Voyage origin Port": "TANJUNG UBAN",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "12/12/2021 22.07"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639319820
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "12/12/2021 21.37"
+},
+ {
+   "Vessel Name": "LOMBA MAS",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639319820
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "12/12/2021 21.37"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639319640
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "12/12/2021 21.34"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639313100
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "12/12/2021 19.45"
+},
+ {
+   "Vessel Name": "PACIFIC TEN",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639304700
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "12/12/2021 17.25"
+},
+ {
+   "Vessel Name": "MERATUS MANADO",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639303080
+   },
+   "Voyage origin Port": "MAKASSAR",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "12/12/2021 16.58"
+},
+ {
+   "Vessel Name": "SEASPAN LUMACO",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639302120
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "12/12/2021 16.42"
+},
+ {
+   "Vessel Name": "SPIRIT OF MUMBAI",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639297020
+   },
+   "Voyage origin Port": "SINGAPORE",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "12/12/2021 15.17"
+},
+ {
+   "Vessel Name": "GAS ATTAKA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639292520
+   },
+   "Voyage origin Port": "KALBUT",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "12/12/2021 14.02"
+},
+ {
+   "Vessel Name": "DHARMA FERRY 2",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639291980
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "12/12/2021 13.53"
+},
+ {
+   "Vessel Name": "ADVANCE",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639290960
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "12/12/2021 13.36"
+},
+ {
+   "Vessel Name": "MARINER",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639289220
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "12/12/2021 13.07"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639272960
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "12/12/2021 08.36"
+},
+ {
+   "Vessel Name": "KIRANA IX",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639270560
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "12/12/2021 07.56"
+},
+ {
+   "Vessel Name": "IBRAHIM ZAHIER",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639257060
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "12/12/2021 04.11"
+},
+ {
+   "Vessel Name": "EDRICKO 3",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639236120
+   },
+   "Voyage origin Port": "GRESIK",
+   "Leg Start Port": {
+      "anch": "GRESIK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "11/12/2021 22.22"
+},
+ {
+   "Vessel Name": "ADVANCE",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639231740
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "11/12/2021 21.09"
+},
+ {
+   "Vessel Name": "SOHO MERCHANT",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639230420
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "11/12/2021 20.47"
+},
+ {
+   "Vessel Name": "SEROJA II",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639224840
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "11/12/2021 19.14"
+},
+ {
+   "Vessel Name": "LOMBA MAS",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639218960
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "11/12/2021 17.36"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639218840
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "11/12/2021 17.34"
+},
+ {
+   "Vessel Name": "SEASPAN LUMACO",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639217520
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "JAKARTA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "11/12/2021 17.12"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639214100
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "11/12/2021 16.15"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639200120
+   },
+   "Voyage origin Port": "KUMAI",
+   "Leg Start Port": {
+      "anch": "KUMAI"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "11/12/2021 12.22"
+},
+ {
+   "Vessel Name": "DHARMA FERRY 2",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639162860
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "11/12/2021 02.01"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639162440
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "11/12/2021 01.54"
+},
+ {
+   "Vessel Name": "MERATUS TOMINI",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639156860
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "11/12/2021 00.21"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639154880
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "10/12/2021 23.48"
+},
+ {
+   "Vessel Name": "MERATUS MALINO",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639153800
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "10/12/2021 23.30"
+},
+ {
+   "Vessel Name": "TIRTA VII",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639147860
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "10/12/2021 21.51"
+},
+ {
+   "Vessel Name": "BSP XX",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639145940
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "10/12/2021 21.19"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639127100
+   },
+   "Voyage origin Port": "KUMAI",
+   "Leg Start Port": {
+      "anch": "KUMAI"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "10/12/2021 16.05"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 1639122180
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "10/12/2021 14.43"
+},
+ {
+   "Vessel Name": "KN.KARIMUNJAWA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44540.12431
+   },
+   "Voyage origin Port": "JEPARA",
+   "Leg Start Port": {
+      "anch": "JEPARA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Law Enforce",
+   "Timestamp": "10/12/2021 09.59"
+},
+ {
+   "Vessel Name": "MERATUS TOMINI",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44540.05764
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "JAKARTA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "10/12/2021 08.23"
+},
+ {
+   "Vessel Name": "MUTIARA FERINDO 7",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44540.03472
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "10/12/2021 07.50"
+},
+ {
+   "Vessel Name": "TRADER",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44540.03333
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "10/12/2021 07.48"
+},
+ {
+   "Vessel Name": "MERATUS MALINO",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.90903
+   },
+   "Voyage origin Port": "MAKASSAR",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "10/12/2021 04.49"
+},
+ {
+   "Vessel Name": "MARINER",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.82778
+   },
+   "Voyage origin Port": "KALBUT",
+   "Leg Start Port": {
+      "anch": "KALBUT"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "10/12/2021 02.52"
+},
+ {
+   "Vessel Name": "INESSA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.65694
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "09/12/2021 22.46"
+},
+ {
+   "Vessel Name": "PRIMA XP",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.63958
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "09/12/2021 22.21"
+},
+ {
+   "Vessel Name": "SEROJA II",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.50625
+   },
+   "Voyage origin Port": "CIREBON",
+   "Leg Start Port": {
+      "anch": "CIREBON"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "09/12/2021 19.09"
+},
+ {
+   "Vessel Name": "BERKAH PANDAN ARAN 1",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.48125
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "09/12/2021 18.33"
+},
+ {
+   "Vessel Name": "TB INDO PACIFIC 02",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.22917
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "09/12/2021 12.30"
+},
+ {
+   "Vessel Name": "MUTIARA FERINDO 7",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.21667
+   },
+   "Voyage origin Port": "PANJANG",
+   "Leg Start Port": {
+      "anch": "PANJANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "09/12/2021 12.12"
+},
+ {
+   "Vessel Name": "MERATUS BENOA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.2125
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "09/12/2021 12.06"
+},
+ {
+   "Vessel Name": "GAS PATRA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.16597
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "09/12/2021 10.59"
+},
+ {
+   "Vessel Name": "TRADER",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.15764
+   },
+   "Voyage origin Port": "SINGAPORE",
+   "Leg Start Port": {
+      "anch": "SINGAPORE"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "09/12/2021 10.47"
+},
+ {
+   "Vessel Name": "GAS PATRA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.08194
+   },
+   "Voyage origin Port": "MERAK",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "09/12/2021 08.58"
+},
+ {
+   "Vessel Name": "INESSA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.01597
+   },
+   "Voyage origin Port": "PORT KLANG",
+   "Leg Start Port": {
+      "anch": "PORT KLANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "09/12/2021 07.23"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44539.00903
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "09/12/2021 07.13"
+},
+ {
+   "Vessel Name": "TRANSKO DARA 3203.",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.97639
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "09/12/2021 06.26"
+},
+ {
+   "Vessel Name": "MERATUS BENOA",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.79861
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SURABAYA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "09/12/2021 02.10"
+},
+ {
+   "Vessel Name": "GAS PATRICIA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.76806
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "09/12/2021 01.26"
+},
+ {
+   "Vessel Name": "SOHO MERCHANT",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.22708
+   },
+   "Voyage origin Port": "BELAWAN",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "08/12/2021 12.27"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.20208
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "08/12/2021 11.51"
+},
+ {
+   "Vessel Name": "DHARMA RUCITRA 9",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.19444
+   },
+   "Voyage origin Port": "KUMAI",
+   "Leg Start Port": {
+      "anch": "KUMAI"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "08/12/2021 11.40"
+},
+ {
+   "Vessel Name": "BIMA 315",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.02847
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "08/12/2021 07.41"
+},
+ {
+   "Vessel Name": "PRIMA XP",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.01181
+   },
+   "Voyage origin Port": "JAKARTA",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "08/12/2021 07.17"
+},
+ {
+   "Vessel Name": "GANDAWATI 1",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.01042
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "08/12/2021 07.15"
+},
+ {
+   "Vessel Name": "BIMA 315",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44538.00139
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "08/12/2021 07.02"
+},
+ {
+   "Vessel Name": "BINA BENUA 9",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.90208
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "08/12/2021 04.39"
+},
+ {
+   "Vessel Name": "LAWIT",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.77431
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Passenger",
+   "Timestamp": "08/12/2021 01.35"
+},
+ {
+   "Vessel Name": "IBRAHIM ZAHIER",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.69861
+   },
+   "Voyage origin Port": "SEMARANG ANCH",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 23.46"
+},
+ {
+   "Vessel Name": "PUSRI INDONESIA I",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.69167
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 23.36"
+},
+ {
+   "Vessel Name": "TB.SYUKUR 28",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.48056
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "07/12/2021 18.32"
+},
+ {
+   "Vessel Name": "SPIRIT OF MUMBAI",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.46111
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 18.04"
+},
+ {
+   "Vessel Name": "TIMUR LAUT MAS 2",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.33333
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "07/12/2021 15.00"
+},
+ {
+   "Vessel Name": "MERATUS BONTANG",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.25833
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 13.12"
+},
+ {
+   "Vessel Name": "EVER COMPOSE",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.12431
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 09.59"
+},
+ {
+   "Vessel Name": "GANDAWATI 1",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.12153
+   },
+   "Voyage origin Port": "KETAPANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "07/12/2021 09.55"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.12014
+   },
+   "Voyage origin Port": "SEMARANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "07/12/2021 09.53"
+},
+ {
+   "Vessel Name": "BIMA 306",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44537.10625
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "07/12/2021 09.33"
+},
+ {
+   "Vessel Name": "BSP XX",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.98681
+   },
+   "Voyage origin Port": "PALEMBANG",
+   "Leg Start Port": {
+      "anch": "SEMARANG ANCH"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 06.41"
+},
+ {
+   "Vessel Name": "KN. KARIMUNJAWA",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.91528
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Law Enforce",
+   "Timestamp": "07/12/2021 04.58"
+},
+ {
+   "Vessel Name": "EVER COMPOSE",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.73819
+   },
+   "Voyage origin Port": "SURABAYA",
+   "Leg Start Port": {
+      "anch": "SURABAYA"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 00.43"
+},
+ {
+   "Vessel Name": "WAN HAI 216",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.72361
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "07/12/2021 00.22"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.675
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "06/12/2021 23.12"
+},
+ {
+   "Vessel Name": "PACIFIC TEN",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.35972
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tug",
+   "Timestamp": "06/12/2021 15.38"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.34931
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "06/12/2021 15.23"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.30556
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "06/12/2021 14.20"
+},
+ {
+   "Vessel Name": "DHARMA KARTIKA VII",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.29583
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "In Transit",
+   "FIELD9": "Cargo",
+   "Timestamp": "06/12/2021 14.06"
+},
+ {
+   "Vessel Name": "DHARMA FERRY 2",
+   "Port Call Type": "DEPARTURE",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.27708
+   },
+   "Voyage origin Port": "",
+   "Leg Start Port": {
+      "anch": ""
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Ro-Ro/Passenger",
+   "Timestamp": "06/12/2021 13.39"
+},
+ {
+   "Vessel Name": "MERATUS BONTANG",
+   "Port Call Type": "ARRIVAL",
+   "Port Type": "Port",
+   "Port At Call": "SEMARANG",
+   "Ata": {
+      "atd": 44536.23264
+   },
+   "Voyage origin Port": "PONTIANAK",
+   "Leg Start Port": {
+      "anch": "PONTIANAK"
+   },
+   "In Transit Port Calls": "Not in Transit",
+   "FIELD9": "Tanker",
+   "Timestamp": "06/12/2021 12.35"
+}
+]
