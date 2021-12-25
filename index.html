@@ -22,7 +22,7 @@
   <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="/assets/img/favicon.png">
   <title>
-    Port of Semarang | Eksplorasi Data Marine Traffic
+    Port of Semarang | Exploration of Marine Traffic Data
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -142,16 +142,19 @@
 
     <div class="container-fluid py-4">
       <div class="row">
-        <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
+        <div class="col-xl-2 col-sm-6 mb-xl-0 mb-4">
           <div class="card">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-12">
                   <div class="numbers">
-                    <p class="text-sm mb-0 text-capitalize font-weight-bold">Vessels Arrival (1-24 Dec 2021)</p>
+                    <p class="text-sm mb-0 text-capitalize font-weight-bold">Expected Arrivals <br> 
+                    <script>
+                      document.write(`(${new Date().getDate()} ${new Date().toLocaleString('en-us', { month: 'short' })} ${new Date().getFullYear()})`)
+                    </script>
+                    </p>
                     <h5 class="font-weight-bolder mb-0">
-                      174
-                      <span class="text-success text-sm font-weight-bolder">+13 today</span>
+                      1
                     </h5>
                   </div>
                 </div>
@@ -159,16 +162,19 @@
             </div>
           </div>
         </div>
-        <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
-          <div class="card">
+        <div class="col-xl-2 col-sm-6 mb-xl-0 mb-4">
+          <div class="card ">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-12">
                   <div class="numbers">
-                    <p class="text-sm mb-0 text-capitalize font-weight-bold">Vessels Departure (1-24 Dec 2021)</p>
+                    <p class="text-sm mb-0 text-capitalize font-weight-bold ">Vessels in Port <br> 
+                    <script>
+                      document.write(`(${new Date().getDate()} ${new Date().toLocaleString('en-us', { month: 'short' })} ${new Date().getFullYear()})`)
+                    </script>
+                    </p>
                     <h5 class="font-weight-bolder mb-0">
-                      165
-                      <span class="text-success text-sm font-weight-bolder">+6 today</span>
+                      18
                     </h5>
                   </div>
                 </div>
@@ -176,16 +182,16 @@
             </div>
           </div>
         </div>
-        <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
+        <div class="col-xl-2 col-sm-6 mb-xl-0 mb-4">
           <div class="card">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-12">
                   <div class="numbers">
-                    <p class="text-sm mb-0 text-capitalize font-weight-bold">Domestic Vessels (7-24 Dec 2021)</p>
+                    <p class="text-sm mb-0 text-capitalize font-weight-bold va"></p>
                     <h5 class="font-weight-bolder mb-0">
-                      103
-                      <span class="text-success text-sm font-weight-bolder">+1 today</span>
+                      180
+                      <span class="text-success text-sm font-weight-bolder arr-today"></span>
                     </h5>
                   </div>
                 </div>
@@ -193,16 +199,48 @@
             </div>
           </div>
         </div>
-        <div class="col-xl-3 col-sm-6">
+        <div class="col-xl-2 col-sm-6 mb-xl-0 mb-4">
           <div class="card">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-12">
                   <div class="numbers">
-                    <p class="text-sm mb-0 text-capitalize font-weight-bold">International Vessels (7-24 Dec 2021)</p>
+                    <p class="text-sm mb-0 text-capitalize font-weight-bold vd"></p>
                     <h5 class="font-weight-bolder mb-0">
-                      30
-                      <span class="text-success text-sm font-weight-bolder">+1 today</span>
+                      177
+                      <span class="text-success text-sm font-weight-bolder dep-today"></span>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-sm-6 mb-xl-0 mb-4">
+          <div class="card">
+            <div class="card-body p-3">
+              <div class="row">
+                <div class="col-12">
+                  <div class="numbers">
+                    <p class="text-sm mb-0 text-capitalize font-weight-bold dv"></p>
+                    <h5 class="font-weight-bolder mb-0 type-dom">
+                      
+                      <span class="text-success text-sm font-weight-bolder plus-dom"></span>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-sm-6">
+          <div class="card">
+            <div class="card-body p-3">
+              <div class="row">
+                <div class="col-12">
+                  <div class="numbers">
+                    <p class="text-sm mb-0 text-capitalize font-weight-bold iv"></p>
+                    <h5 class="font-weight-bolder mb-0 type-int">
                     </h5>
                   </div>
                 </div>
@@ -219,7 +257,7 @@
                 <div class="row">
                   <h6>Semarang Port</h6>
                   <p class="text-sm mb-0">
-                    <span class="font-weight-bold ms-1">Semarang Port is medium-sized port located at Indonesia, Java Sea in Indonesia at coordinates S 06° 56' 53.65" - E 110° 25' 08.69". The types of vessels regularly calling at Semarang Port are Container Ship (29%), Oil Products Tanker (13%), Bulk Carrier (10%), General Cargo (8%), Oil/Chemical Tanker (7%). </span>
+                    <span class="font-weight-bold ms-1">Semarang Port is medium-sized port located at Indonesia, Java Sea in Indonesia at coordinates S 06° 56' 53.65" - E 110° 25' 08.69". The types of vessels regularly calling at Semarang Port are Container Ship (30%), Oil Products Tanker (13%), Bulk Carrier (10%), General Cargo (8%), Oil/Chemical Tanker (7%). </span>
                   </p>
                 </div>
               </div>
@@ -309,16 +347,54 @@
 
   <!--   Core JS Files   -->
   <script>
-    $.getJSON('https://raw.githubusercontent.com/vaniarizki/disjasuas/main/Data.json', function(data) {
+    $.getJSON('https://raw.githubusercontent.com/vaniarizki/disjas-semarang-port/main/Data.json', function(data) {
       var table = $('tbody.vessel-table');
       var count = Object.keys(data).length;
       var today = new Date();
       today.setHours(0,0,0,0);
-      var len = data.filter(function(item){
-        console.log((item["Ataatd"]))
-        return ((parseInt(item.Ataatd) >= Date.parse(today)))
+
+      var todayDate = today.getDate();
+
+      $('.va').append(`Vessels Arrival <br> (1-${todayDate} Dec 2021)`);
+      $('.vd').append(`Vessels Departure <br> (1-${todayDate} Dec 2021)`);
+      $('.dv').append(`Domestic Vessels <br> (7-${todayDate} Dec 2021)`);
+      $('.iv').append(`International Vessels <br> (7-${todayDate} Dec 2021)`);
+
+      var lenInt = data.filter(function(item){
+        return ((item["Port Call Type"] == "ARRIVAL") && (item.IntDom == "International"))
       }).length;
-      alert(len)
+
+      var lenDom = data.filter(function(item){
+        return ((item["Port Call Type"] == "ARRIVAL") && (item.IntDom == "Domestic"))
+      }).length;
+      
+      var lenIntToday = data.filter(function(item){
+        return ((parseInt(item.Ataatd) >= (Date.parse(today)/1000)) && (item["Port Call Type"] == "ARRIVAL") && (item.IntDom == "International"))
+      }).length;
+      
+      
+      var lenDomToday = data.filter(function(item){
+        return ((parseInt(item.Ataatd) >= (Date.parse(today)/1000)) && (item["Port Call Type"] == "ARRIVAL") && (item.IntDom == "Domestic"))
+      }).length;
+
+      var lenArr = data.filter(function(item){
+        return ((parseInt(item.Ataatd) >= (Date.parse(today)/1000)) && (item["Port Call Type"] == "ARRIVAL"))
+      }).length;
+
+      var lenDep = data.filter(function(item){
+        return ((parseInt(item.Ataatd) >= (Date.parse(today)/1000)) && (item["Port Call Type"] == "DEPARTURE"))
+      }).length;
+      
+      $('.type-int').append(`${lenInt}
+                          <span class="text-success text-sm font-weight-bolder plus-int">+${lenIntToday} today</span>`
+                          );
+
+      $('.type-dom').append(`${lenDom}
+                          <span class="text-success text-sm font-weight-bolder plus-int">+${lenIntToday} today</span>`
+                          );
+
+      $('.arr-today').text(`+${lenArr} today`)
+      $('.dep-today').text(`+${lenDep} today`)
     });
     </script>
     
