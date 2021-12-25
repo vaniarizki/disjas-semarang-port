@@ -34,6 +34,7 @@
   <link href="/assets/css/nucleo-svg.css" rel="stylesheet" />
   <!-- CSS Files -->
   <link id="pagestyle" href="/assets/css/soft-ui-dashboard.css?v=1.0.3" rel="stylesheet" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
 <body class="g-sidenav-show  bg-gray-100">
@@ -89,7 +90,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link  " href="../billing.html">
+          <a class="nav-link  " href="../author.html">
             <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 43 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>credit-card</title>
@@ -105,7 +106,7 @@
                 </g>
               </svg>
             </div>
-            <span class="nav-link-text ms-1">Billing</span>
+            <span class="nav-link-text ms-1">Author</span>
           </a>
         </li>
       </ul>
@@ -183,8 +184,8 @@
                   <div class="numbers">
                     <p class="text-sm mb-0 text-capitalize font-weight-bold">Domestic Vessels (7-24 Dec 2021)</p>
                     <h5 class="font-weight-bolder mb-0">
-                      94
-                      <span class="text-success text-sm font-weight-bolder">+6 today</span>
+                      103
+                      <span class="text-success text-sm font-weight-bolder">+1 today</span>
                     </h5>
                   </div>
                 </div>
@@ -200,8 +201,8 @@
                   <div class="numbers">
                     <p class="text-sm mb-0 text-capitalize font-weight-bold">International Vessels (7-24 Dec 2021)</p>
                     <h5 class="font-weight-bolder mb-0">
-                      27
-                      <span class="text-success text-sm font-weight-bolder">+2 today</span>
+                      30
+                      <span class="text-success text-sm font-weight-bolder">+1 today</span>
                     </h5>
                   </div>
                 </div>
@@ -307,6 +308,20 @@
 
 
   <!--   Core JS Files   -->
+  <script>
+    $.getJSON('https://raw.githubusercontent.com/vaniarizki/disjasuas/main/Data.json', function(data) {
+      var table = $('tbody.vessel-table');
+      var count = Object.keys(data).length;
+      var today = new Date();
+      today.setHours(0,0,0,0);
+      var len = data.filter(function(item){
+        console.log((item["Ataatd"]))
+        return ((parseInt(item.Ataatd) >= Date.parse(today)))
+      }).length;
+      alert(len)
+    });
+    </script>
+    
   <script src="/assets/js/core/popper.min.js"></script>
   <script src="/assets/js/core/bootstrap.min.js"></script>
   <script src="/assets/js/plugins/perfect-scrollbar.min.js"></script>
